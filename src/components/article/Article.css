@@ -1,0 +1,31 @@
+/* PREVIEW */
+.articles-row-wrapper {
+    padding: 0px 20px;
+}
+
+.article-preview {
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid #bfbaba;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.article-preview-title-wrapper {
+    float: left;
+}
+
+.article-preview-title-wrapper a {
+    color:#000000;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.article-preview-title-wrapper a:hover {
+    color: #00008B;
+}
+
+.article-text-wrapper {
+    margin-top: 15px;
+}
